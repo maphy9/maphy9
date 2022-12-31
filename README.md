@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maphy9
 - 👀 I’m interested in programming, creating web-sites.
-- 🌱 I’m currently learning python and JS
+- 🌱 I’m currently learning Python, JavaScript and ReactJS

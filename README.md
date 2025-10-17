@@ -15,4 +15,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maphy9&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="maphy9's Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maphy9&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="maphy9's Top Languages" />
+  <br>
+  <img height="180em" src="https://streak-stats.vercel.app?user=maphy9&theme=dark" />
 </p>

@@ -7,7 +7,7 @@
 
 <h1 align="center">💻 Software development tools</h1>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cmake,js,ts,bun,nodejs,react,redux,vue,nuxt,pinia,vuetify,python,django,numpy,pygame,java,spring,dart,flutter,lua,bash,powershell,git,github,gitlab,docker,postgres,sqlite,firebase,supabase,plsql,sqlserver,windows,linux,vscode,androidstudio,figma&perline=13" alt="My Skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cmake,js,ts,bun,nodejs,react,redux,vue,nuxt,pinia,vuetify,python,django,numpy,java,dart,flutter,lua,bash,powershell,git,github,gitlab,docker,postgres,sqlite,firebase,supabase,plsql,sqlserver,windows,linux,figma&perline=13" alt="My Skills" />
 </p>
 
 

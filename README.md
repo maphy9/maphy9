@@ -5,14 +5,19 @@
 
 ---
 
-<h1 align="center">🦎 Programming Languages</h1>
+<h1 align="center">🐸 Programming Languages</h1>
 <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,cpp,rust,golang,java,cs,dart,lua,php,bash&perline=13" alt="Programming Languages" />
 </p>
 
-<h1 align="center">🦦 Web Development Tools</h1>
+<h1 align="center">🦜 Web Development Tools</h1>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vue,nuxt,tailwind,redux,pinia,vuetify,django,fastapi,flask&perline=13" alt="Web Development Tools" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vue,nuxt,tailwind,redux,pinia,vuetify,django,fastapi,websocket&perline=13" alt="Web Development Tools" />
+</p>
+
+<h1 align="center">🐐 Mobile Development Tools</h1>
+<p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,dart,flutter,androidstudio&perline=13" alt="Mobile Development Tools" />
 </p>
 
 <h1 align="center">🐚 Databases</h1>
@@ -20,7 +25,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlite,firebase,supabase,plsql,sqlserver&perline=13" alt="Databases" />
 </p>
 
-<h1 align="center">🐳 Other Tools</h1>
+<h1 align="center">🦌 Other Tools</h1>
 <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,docker,linux,cmake,nodejs,bun&perline=13" alt="Other Tools" />
 </p>

@@ -1,7 +1,4 @@
-<h1 align="center">👋 Hey, I am Andrii</h1>
-
-### 💫 About Me:
-🔭 I am currently studying for my CS degree 🎓<br>🌱 I am currently learning nothing in particular<br>📨 My email: maphy9@gmail.com
+### 💫 About Me: Nothing interesting really
 
 ---
 
@@ -37,3 +34,14 @@
   <br>
   <img height="180em" src="https://streak-stats.vercel.app?user=maphy9&theme=dark" />
 </p>
+
+
+<details>
+<summary>Something interesting here</summary>
+    
+| What I will do for meditation when the world collapses into chaos | Go hard or go home |
+| ------------- | ------------- |
+| Probably some low level obscure coding like megaman custom roms or some rust 3d voxel engine | ![confusing-weird-pics-65573d92a3c7c__700](https://github.com/user-attachments/assets/77ee7a9c-8a8d-499b-8f76-4b8d5aa8c171) ![images](https://github.com/user-attachments/assets/20fa17f9-566d-4a76-b715-f7762c4af970) |
+| ![images](https://github.com/user-attachments/assets/f350e46e-091b-4486-8978-4e631bbf689e) | ![slugssnails](https://github.com/user-attachments/assets/3fec2734-95b1-44a4-88c3-a7f4259c428a) |
+
+</details>

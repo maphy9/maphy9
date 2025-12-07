@@ -39,9 +39,8 @@
 <details>
 <summary>Something interesting here</summary>
     
-| What I will do for meditation when the world collapses into chaos | Go hard or go home |
+| Elixir beam | Wo and Ni particles |
 | ------------- | ------------- |
-| Probably some low level obscure coding like megaman custom roms or some rust 3d voxel engine | ![confusing-weird-pics-65573d92a3c7c__700](https://github.com/user-attachments/assets/77ee7a9c-8a8d-499b-8f76-4b8d5aa8c171) ![images](https://github.com/user-attachments/assets/20fa17f9-566d-4a76-b715-f7762c4af970) |
-| ![images](https://github.com/user-attachments/assets/f350e46e-091b-4486-8978-4e631bbf689e) | ![slugssnails](https://github.com/user-attachments/assets/3fec2734-95b1-44a4-88c3-a7f4259c428a) |
+| ![himalayan-ambient-v0-sehoyu3ako5b1](https://github.com/user-attachments/assets/053d19db-5dcf-4190-a8f4-b860d6800102) | ![photo_2025-05-25_23-35-29](https://github.com/user-attachments/assets/7241b3ae-e200-4faa-94e9-269bda5e82a5) |
 
 </details>

@@ -4,7 +4,7 @@
 
 <h1 align="center">🐸 Programming Languages</h1>
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,cpp,rust,golang,java,cs,dart,lua,php,bash&perline=13" alt="Programming Languages" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,cpp,rust,golang,java,bash&perline=13" alt="Programming Languages" />
 </p>
 
 <h1 align="center">🦜 Web Development Tools</h1>
